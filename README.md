@@ -1,5 +1,5 @@
 # TacticalVotingAnalyst
-A voting analyst for tactical voting strategies (KEN 4154: Multi-Agent Systems)
+A voting analyst for tactical voting strategies (Multi-Agent Systems and Agents)
 
 Run the tva.py for the basic and advanced TVA
 
